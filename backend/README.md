@@ -1,7 +1,6 @@
-# Project Title
+# CRUD MERN Stack Project Planning
 
-A brief description of your MERN stack application and what it does. Let people know what your project can do specifically and provide context. You can include badges from [Shields.io](
-) to show project metadata like build status or tech stack used.
+A brief description of your MERN stack application and what it does. Let people know what your project can do specifically and provide context. You can include badges from [Shields.io](https://shields.io/) to show project metadata like build status or tech stack used.
 
 ## 🚀 Features
 
@@ -30,8 +29,8 @@ Follow these steps to get the project up and running on your local machine:
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com
-    cd your-project-name
+    git clone [https://github.com](https://github.com/REX-GOT/CRUD-Project.git)
+    cd CRUD-Project
     ```
 2.  Install dependencies in the root directory:
     ```bash
@@ -63,7 +62,8 @@ Create a `.env` file in both the root (`/`) and `client/` directories. Add neces
 
 ## 👤 Authors
 
-*   **Your Name** - [GitHub Profile Link](https://github.com).
+*   **Nighty Lang** - [GitHub Profile Link](https://github.com/nightylang).
+*   **Cyber Security Nighty** - [GitHub Profile Link](https://github.com/cybersecuritynighty).
 
 ## 📜 License
 
