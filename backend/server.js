@@ -24,5 +24,5 @@ connectDB().then(() => {
 
 // Browser
 app.get('/', (req, res) => {
-    res.send('Hello from server.js! This is the backend of the MERN stack application.');
+    res.send('Hello from server.js! This is the backend of the MERN stack application. 404');
 });
