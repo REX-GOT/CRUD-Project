@@ -1,6 +1,5 @@
 const express = require('express');
 const router = express.Router();
-const User = require('../models/userPost.model');
 const {
     getAllUsers,
     getUserById,
@@ -10,7 +9,7 @@ const {
 } = require('../controllers/user.controller');
 
 // GET all Route
-router.get("/", getAllUsers);
+router.get('/', getAllUsers);
 
 // GET Route with query by id
 router.get('/:id', getUserById);
