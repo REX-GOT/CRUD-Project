@@ -3,8 +3,7 @@ const mongoose = require('mongoose');
 const userRouter = require('./routers/user.route');
 const taskRouter = require('./routers/task.route');
 const PORT = 4000;
-// username: lang
-// password: XBIwKpsSWwY4WTdV
+
 const app = express();
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
