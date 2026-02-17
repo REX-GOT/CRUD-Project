@@ -1,0 +1,19 @@
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "server": "nodemon server.js"
+    },
+    "keywords": [],
+    "author": "Leang",
+    "license": "ISC",
+    "description": "This is the backend for the CRUD project.",
+    "dependencies": {
+        "express": "^5.2.1",
+        "mongodb": "^7.1.0",
+        "nodemon": "^3.1.11"
+    },
+    "type": "commonjs"
+}
