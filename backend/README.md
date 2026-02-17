@@ -29,7 +29,7 @@ Follow these steps to get the project up and running on your local machine:
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com](https://github.com/REX-GOT/CRUD-Project.git)
+    git clone https://github.com/REX-GOT/CRUD-Project.git
     cd CRUD-Project
     ```
 2.  Install dependencies in the root directory:
